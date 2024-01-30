@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: black;
+    display: flex;
+    height: 100px;
+}
+
+.categorias {
+    display: flex;
+}
+
+p {
+    color: white;
+    padding: 0.625rem 2rem;
+    font-family: 'Pattaya', sans-serif;
+    padding-top: 2rem;
+    font-size: x-large;
+}
+
+.icon {
+    padding: 0 1.875rem;
+    margin-top: -0.625rem;
+}
+
+.logo-icon {
+    width: 9.25rem;
+}
+
+.busca {
+    border-radius: 0.625rem;
+    height: 3.125rem;
+    width: 22rem;
+    margin-left: 15rem;
+    margin-top: 25px;
+    font-size: medium;
+    padding-left: 0.625rem;
+}
+
+.icons {
+    padding-left: 10rem;
+    padding-top: 1.875rem;
+}
+
+.carrinho {
+    padding-right: 3.125rem;
+}
+
+main {
+    background-color: #6D0000;
+}
